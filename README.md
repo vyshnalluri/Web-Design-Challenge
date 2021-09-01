@@ -90,4 +90,8 @@ Small screen:Screenshot_lg_sm\navigation_sm.png
 
 - - -
 
+<<<<<<< HEAD
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+Â© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+>>>>>>> 0eed48322210e458d00780dda5654edb3768649d
