@@ -33,7 +33,7 @@ The website must consist of 7 pages total, including:
 
 
 You can view the Weather Dashboard here:
-
+https://vyshnalluri.github.io/Web-Design-Challenge/index.html
 
 
 
